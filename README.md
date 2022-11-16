@@ -25,7 +25,7 @@ A la vez, se incluyó en el archivo "libros.sql" un listado con más de 800 regi
 
 ##################################################################################
 
-Equipo conformado por (en orden alfabético):
+Equipo BBBBB5 conformado por (en orden alfabético):
 
 Baravaglio, Raimundo | Belen, Esteban | Belen, Francisco | Bellesi, Filomena | Bolatti Cristofaro, María Carolina
 
