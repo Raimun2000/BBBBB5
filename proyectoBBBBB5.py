@@ -31,7 +31,7 @@ inicioEtapa = 1
 finEtapa = 2
 
 # Iniciamos la variable que mantendrá el siguiente bucle en funcionamiento mientras su valor no sea 1.
-salir = 1
+salir = 0
 
 
 # especial = 1 # Variable temporal para continuar con el loop luego de alguna interrupción no prevista del sistema. Ej: errores de configuración de PHP, o de variables del sistema donde se ejecute. Mientras su valor sea 1, no ejecutará la sopa sobre esa URL ya que se trata de un libro ya recorrido antes. En el caso de hallar el libro mencionado en la siguiente variable (sitioDondeContinuar) se le dará el valor 0 para que a partir de aquí, recorra todos los libros subsiguientes.
