@@ -12,7 +12,7 @@ Los archivos "POOBBDD.py" y "conexion.php" ubicados dentro de la carpeta "modulo
   CLAVE:          "" <- sin clave
   BASE DE DATOS:  "Proy_Colab_BBBBB5"
 
-Los datos de usuario son los que vienen por defecto en la instalación de MySQL en los diferentes programas que funcionan como servidores web locales como XAMPP, WAMPP, LAMPP, Laragon (Laragon.org) o similares.
+Los datos de usuario son los que vienen por defecto en la instalación de MySQL en los diferentes programas que funcionan como servidores web locales como XAMPP, WAMPP, LAMPP, [Laragon](https://Laragon.org) o similares.
 
 ##################################################################################
 
